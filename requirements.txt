@@ -1,9 +1,0 @@
-streamlit
-numpy
-scipy
-pandas
-openpyxl
-matplotlib
-scikit-fem
-pyamg
-pillow
